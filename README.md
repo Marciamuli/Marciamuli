@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**Marciamuli/Marciamuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Marciamuli
 
 
 <div align="center">
